@@ -27,6 +27,8 @@ Relevant certifications (e.g., Django Certified Developer by Meta) 2022/2023
 Passionate about leveraging my technical expertise to deliver innovative software solutions that drive business success. Committed to continuous learning and staying up-to-date with the latest industry trends. Excellent problem-solving and communication skills with a keen attention to detail.
 Excellent in technical writings.
 link to my medium: https://medium.com/@joelinyang2003
+link to my hashnode articles:
+https://joelinyang.hashnode.dev
 
 
 
