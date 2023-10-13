@@ -1,4 +1,4 @@
- Software Engineer | Python | Django | JavaScript | AWS | SQL | RESTful API
+ Software Engineer | C | Python | Django | JavaScript | AWS | SQL | RESTful API
 
 Experienced and versatile software engineer with a strong background in full-stack web development. Proficient in Python, Django, JavaScript, AWS, SQL, and RESTful API design. Adept at collaborating with cross-functional teams to deliver robust and scalable solutions that meet client requirements.
 
@@ -9,6 +9,7 @@ Web Frameworks: Django
 Front-end Technologies: HTML, CSS
 Database Management: MYSQL, PostgreSQL
 Cloud Platforms: Amazon Web Services (AWS)
+CI/CD
 RESTful API Development and Integration
 Version Control: Git, GitHub
 Agile Development Methodologies
