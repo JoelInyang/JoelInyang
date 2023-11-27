@@ -3,8 +3,7 @@
 Diligent and versatile software engineer ready to stretch with any team also with a strong background in full-stack web development. Proficient in Python, Django, JavaScript, AWS, SQL, and RESTful API design. Adept at collaborating with cross-functional teams to deliver robust and scalable solutions that meet client requirements.
 
 Link to deployed projects : 
--- https://joelinyang.pythonanywhere.com
--- https://moveritems.pythonanywhere.com
+-- https://moverapp.onrender.com/
 -- https://swiftmunch.pythonanywhere.com (API)
 
 Key Skills:
